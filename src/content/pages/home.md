@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Katofsky Construction LLC | Restoration Services in Pittsburgh, PA"
-h1: "24/7 Restoration Services in Pittsburgh"
-meta_description: "Katofsky Construction LLC provides 24/7 water, fire, mold, and storm damage restoration across Pittsburgh and surrounding areas. Licensed, insured, IICRC-certified. Call (412) 304-9284."
-primary_keyword: "restoration services pittsburgh"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Fire Damage Restoration in Pittsburgh, PA | Katofsky Construction LLC"
+h1: "24/7 Fire Damage Restoration in Pittsburgh, PA"
+meta_description: "Katofsky Construction LLC provides fire damage restoration in Pittsburgh, PA, answering 24/7. IICRC certified. Call (412) 304-9284 now."
+primary_keyword: "fire damage restoration pittsburgh"
+secondary_keywords: ["best restoration company in pittsburgh", "restoration company pittsburgh", "fire damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "bc2dd5b0e722f973"
