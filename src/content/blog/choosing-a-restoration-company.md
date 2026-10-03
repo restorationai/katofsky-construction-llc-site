@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in Pittsburgh (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in Pittsburgh (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in pittsburgh without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -13,7 +13,7 @@ plan_hash: "4bef8da97213f26e"
 generated_at: "2026-09-22T15:16:00.688024+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/fire-damage-restoration/", "/blog/fire-damage-restoration-process/", "/blog/smoke-odor-removal-techniques/", "/blog/iicrc-certification-explained/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in Pittsburgh (Without Getting Burned)"}]
 faq: [{"question": "Can I use any restoration company I choose, or does my insurance company get to pick?", "answer": "In Pennsylvania, you have the right to choose your own contractor. Your insurance carrier may have a preferred vendor list and will likely recommend companies from it, but you are not required to use those contractors. What matters is that the company you choose can produce a carrier-compatible estimate and communicate directly with your adjuster. If there is a dispute over scope or pricing, a public adjuster can help you navigate it independently of the carrier."}, {"question": "How long does water damage restoration actually take?", "answer": "Structural drying typically takes three to five days for a straightforward loss, though that range can extend significantly if materials like hardwood flooring, plaster, or thick framing lumber are involved. Pittsburgh's older housing stock, which includes a lot of plaster-and-lath construction, often dries more slowly than modern drywall. The drying phase is complete when moisture readings confirm the materials have returned to acceptable levels, not when the surface feels dry to the touch."}, {"question": "What is post-remediation verification, and do I really need it for mold?", "answer": "Post-remediation verification (sometimes called clearance testing) is an inspection conducted after mold remediation is complete, usually by a third-party industrial hygienist rather than the company that did the work. It confirms that airborne spore counts and surface contamination are within acceptable limits before the space is rebuilt and reoccupied. Whether you are required to have it depends on your insurance policy and the scope of the remediation, but it is generally worth requesting for any loss that involved significant mold growth, both for your own peace of mind and for documentation if you ever sell the property."}, {"question": "What should I do about the smell after a house fire if the visible soot has been cleaned?", "answer": "Persistent smoke odor after visible cleaning usually means particulate has penetrated beyond the surface layer into insulation, wall cavities, subflooring, or the HVAC system. Effective odor elimination for a structure fire typically involves thermal fogging or hydroxyl treatment of the air volume, cleaning or replacing HVAC components and ductwork, and sometimes encapsulation of structural materials that cannot be fully cleaned. If the smell returns after a few weeks, the remediation was likely incomplete rather than the odor being a normal part of the process."}]
 published_at: "2026-09-14"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
