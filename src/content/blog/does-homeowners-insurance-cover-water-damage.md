@@ -17,6 +17,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"
 faq: []
 published_at: "2026-09-08"
 services: ["water-damage-restoration"]
+author: "Michael Katofsky"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug katofsky-construction-llc` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 

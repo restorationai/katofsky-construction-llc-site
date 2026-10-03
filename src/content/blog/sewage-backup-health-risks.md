@@ -18,6 +18,7 @@ faq: [{"question": "How long can sewage contamination remain dangerous after the
 published_at: "2026-09-10"
 services: ["sewage-cleanup"]
 rendered: true
+author: "Michael Katofsky"
 ---
 Sewage backup is one of those home emergencies that triggers a very human instinct: grab a mop and deal with it yourself. Don't. Raw sewage contains a mix of bacteria, viruses, and parasites that can cause serious illness through skin contact, inhalation, or even touching a contaminated surface and then your face. The short version is that a sewage backup is not a cleaning problem, it is a biohazard event. The equipment, protective gear, and disposal protocols required go well beyond what a hardware store run can cover. Here is what you need to know before you touch anything.
 

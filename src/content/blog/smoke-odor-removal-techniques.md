@@ -18,6 +18,7 @@ faq: [{"question": "How long does smoke odor last in a house if it's not treated
 published_at: "2026-09-08"
 services: ["smoke-damage-restoration", "fire-damage-restoration"]
 rendered: true
+author: "Michael Katofsky"
 ---
 ## The short answer: smoke odor survives almost every DIY attempt because it isn't on surfaces, it's inside them.
 

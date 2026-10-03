@@ -17,6 +17,7 @@ faq: [{"question": "What does professional water cleanup include?", "answer": "P
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Michael Katofsky"
 ---
 **TL;DR:** Water cleanup means stopping the source, extracting standing water, drying the structure with air movers and dehumidifiers, and sanitizing everything the water touched, usually completed within 3 to 5 days once a professional crew sets up. A single wet room with clean water can often be handled with a wet vacuum and fans. Water that has sat more than 24 to 48 hours, touched multiple rooms, or came from a contaminated source needs professional extraction equipment and moisture monitoring to stop mold before it starts.
 

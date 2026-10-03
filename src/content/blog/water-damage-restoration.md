@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost?", "answer": "Co
 published_at: "2026-09-30"
 services: []
 rendered: true
+author: "Michael Katofsky"
 ---
 **TL;DR:** Water damage restoration is the process of removing standing water, drying out a structure with commercial dehumidifiers and air movers, and repairing or replacing damaged materials. A typical residential job runs three to five days for drying, plus additional time for repairs. Most homeowners insurance policies cover sudden, accidental water damage (a burst pipe, a failed appliance) but exclude gradual leaks and flooding from outside sources. Acting within the first 24 to 48 hours matters most, since that's the window before mold growth typically begins.
 

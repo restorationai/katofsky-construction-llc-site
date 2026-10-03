@@ -18,6 +18,7 @@ faq: [{"question": "How do I verify that a contractor actually holds IICRC certi
 published_at: "2026-09-15"
 services: ["water-damage-restoration", "mold-remediation", "fire-damage-restoration"]
 rendered: true
+author: "Michael Katofsky"
 ---
 ## IICRC Certification Tells You One Thing Immediately
 

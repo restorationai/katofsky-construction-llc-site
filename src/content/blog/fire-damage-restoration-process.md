@@ -18,6 +18,7 @@ faq: [{"question": "How long does smoke smell last after a fire, and will it go 
 published_at: "2026-09-16"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Michael Katofsky"
 ---
 A house fire leaves behind more than charred walls. Even after the flames are out, smoke residue keeps moving through your home, soot settles into porous surfaces, and the water used to fight the fire begins its own damage cycle. Understanding what the restoration process actually looks like, step by step, helps you ask the right questions, set realistic expectations, and avoid decisions that make the damage worse.
 
