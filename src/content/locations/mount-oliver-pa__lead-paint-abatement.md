@@ -7,10 +7,10 @@ primary_keyword: "lead paint abatement mount oliver"
 secondary_keywords: ["lead paint removal", "lead paint testing", "lead-safe renovation", "lead paint remediation", "EPA RRP certified"]
 search_intent: "local_specialty"
 priority: 3.5
-plan_hash: "1621e18488221ee4"
-generated_at: "2026-10-03T00:07:27.322840+00:00"
+plan_hash: "88d63614ab6e7e76"
+generated_at: "2026-10-08T14:17:24.756754+00:00"
 manual_override: false
-internal_links: ["/services/lead-paint-abatement/", "/service-areas/mount-oliver-pa/", "/service-areas/mount-oliver-pa/asbestos-abatement/", "/service-areas/mount-oliver-pa/carpet-cleaning/", "/service-areas/baldwin-pa/lead-paint-abatement/", "/service-areas/bethel-park-pa/lead-paint-abatement/", "/contact/"]
+internal_links: ["/services/lead-paint-abatement/", "/service-areas/mount-oliver-pa/", "/service-areas/baldwin-pa/lead-paint-abatement/", "/service-areas/bellevue-pa/lead-paint-abatement/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Mount Oliver", "url": "/service-areas/mount-oliver-pa/"}, {"name": "Lead Paint Abatement"}]
 faq: []
 area_slug: "mount-oliver-pa"

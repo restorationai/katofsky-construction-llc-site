@@ -8,7 +8,7 @@ secondary_keywords: ["duct cleaning", "HVAC duct cleaning", "air duct sanitizati
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "efd5f6f2712e683d"
-generated_at: "2026-10-04T14:22:59.175464+00:00"
+generated_at: "2026-10-08T14:17:24.760216+00:00"
 manual_override: false
 internal_links: ["/services/air-duct-cleaning/", "/service-areas/bellevue-pa/", "/service-areas/bellevue-pa/fire-damage-restoration/", "/service-areas/bellevue-pa/sewage-cleanup/", "/service-areas/baldwin-pa/air-duct-cleaning/", "/service-areas/bethel-park-pa/air-duct-cleaning/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Bellevue", "url": "/service-areas/bellevue-pa/"}, {"name": "Air Duct Cleaning"}]

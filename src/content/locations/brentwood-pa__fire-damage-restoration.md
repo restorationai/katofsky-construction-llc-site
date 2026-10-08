@@ -7,10 +7,10 @@ primary_keyword: "fire damage restoration brentwood"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
 priority: 7.0
-plan_hash: "b21b445376f0ffaa"
-generated_at: "2026-10-03T18:37:06.143627+00:00"
+plan_hash: "efc6d906c54bd13e"
+generated_at: "2026-10-08T14:17:24.758292+00:00"
 manual_override: false
-internal_links: ["/services/fire-damage-restoration/", "/service-areas/brentwood-pa/", "/service-areas/brentwood-pa/sewage-cleanup/", "/service-areas/brentwood-pa/general-contracting/", "/service-areas/baldwin-pa/fire-damage-restoration/", "/service-areas/bethel-park-pa/fire-damage-restoration/", "/contact/"]
+internal_links: ["/services/fire-damage-restoration/", "/service-areas/brentwood-pa/", "/service-areas/brentwood-pa/sewage-cleanup/", "/service-areas/brentwood-pa/general-contracting/", "/service-areas/baldwin-pa/fire-damage-restoration/", "/service-areas/bellevue-pa/fire-damage-restoration/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Brentwood", "url": "/service-areas/brentwood-pa/"}, {"name": "Fire Damage Restoration"}]
 faq: []
 area_slug: "brentwood-pa"

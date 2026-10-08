@@ -7,10 +7,10 @@ primary_keyword: "carpet cleaning homestead"
 secondary_keywords: ["professional carpet cleaning", "deep carpet cleaning", "carpet stain removal", "commercial carpet cleaning", "carpet sanitization"]
 search_intent: "local_specialty"
 priority: 2.8
-plan_hash: "4bbb9debf003d8da"
-generated_at: "2026-10-05T16:19:54.541840+00:00"
+plan_hash: "f2a03ffafbbf2af1"
+generated_at: "2026-10-08T14:17:24.765356+00:00"
 manual_override: false
-internal_links: ["/services/carpet-cleaning/", "/service-areas/homestead-pa/", "/service-areas/homestead-pa/fire-damage-restoration/", "/service-areas/homestead-pa/sewage-cleanup/", "/service-areas/allison-park-pa/carpet-cleaning/", "/service-areas/baldwin-pa/carpet-cleaning/", "/contact/"]
+internal_links: ["/services/carpet-cleaning/", "/service-areas/homestead-pa/", "/service-areas/homestead-pa/fire-damage-restoration/", "/service-areas/homestead-pa/reconstruction/", "/service-areas/allison-park-pa/carpet-cleaning/", "/service-areas/baldwin-pa/carpet-cleaning/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Homestead", "url": "/service-areas/homestead-pa/"}, {"name": "Carpet Cleaning"}]
 faq: []
 area_slug: "homestead-pa"

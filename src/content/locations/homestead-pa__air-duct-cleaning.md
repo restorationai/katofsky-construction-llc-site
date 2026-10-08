@@ -7,10 +7,10 @@ primary_keyword: "air duct cleaning homestead"
 secondary_keywords: ["duct cleaning", "HVAC duct cleaning", "air duct sanitization", "dryer vent cleaning", "residential duct cleaning"]
 search_intent: "local_specialty"
 priority: 3.5
-plan_hash: "e9c306489322903c"
-generated_at: "2026-10-05T16:19:54.541465+00:00"
+plan_hash: "09c33c1236625c15"
+generated_at: "2026-10-08T14:17:24.764449+00:00"
 manual_override: false
-internal_links: ["/services/air-duct-cleaning/", "/service-areas/homestead-pa/", "/service-areas/homestead-pa/fire-damage-restoration/", "/service-areas/homestead-pa/sewage-cleanup/", "/service-areas/baldwin-pa/air-duct-cleaning/", "/service-areas/bellevue-pa/air-duct-cleaning/", "/contact/"]
+internal_links: ["/services/air-duct-cleaning/", "/service-areas/homestead-pa/", "/service-areas/homestead-pa/fire-damage-restoration/", "/service-areas/homestead-pa/reconstruction/", "/service-areas/baldwin-pa/air-duct-cleaning/", "/service-areas/bellevue-pa/air-duct-cleaning/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Homestead", "url": "/service-areas/homestead-pa/"}, {"name": "Air Duct Cleaning"}]
 faq: []
 area_slug: "homestead-pa"

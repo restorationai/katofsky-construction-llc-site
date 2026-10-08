@@ -7,10 +7,10 @@ primary_keyword: "asbestos abatement homestead"
 secondary_keywords: ["asbestos removal", "asbestos testing", "asbestos remediation", "popcorn ceiling asbestos removal", "asbestos inspection"]
 search_intent: "local_specialty"
 priority: 4.2
-plan_hash: "a7aee2dba042c43a"
-generated_at: "2026-10-05T16:19:54.541665+00:00"
+plan_hash: "e50513a05859b018"
+generated_at: "2026-10-08T14:17:24.764937+00:00"
 manual_override: false
-internal_links: ["/services/asbestos-abatement/", "/service-areas/homestead-pa/", "/service-areas/homestead-pa/fire-damage-restoration/", "/service-areas/homestead-pa/sewage-cleanup/", "/service-areas/baldwin-pa/asbestos-abatement/", "/service-areas/bethel-park-pa/asbestos-abatement/", "/contact/"]
+internal_links: ["/services/asbestos-abatement/", "/service-areas/homestead-pa/", "/service-areas/homestead-pa/fire-damage-restoration/", "/service-areas/homestead-pa/reconstruction/", "/service-areas/baldwin-pa/asbestos-abatement/", "/service-areas/bethel-park-pa/asbestos-abatement/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Homestead", "url": "/service-areas/homestead-pa/"}, {"name": "Asbestos Abatement"}]
 faq: []
 area_slug: "homestead-pa"

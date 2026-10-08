@@ -7,10 +7,10 @@ primary_keyword: "lead paint abatement swissvale"
 secondary_keywords: ["lead paint removal", "lead paint testing", "lead-safe renovation", "lead paint remediation", "EPA RRP certified"]
 search_intent: "local_specialty"
 priority: 3.5
-plan_hash: "4f2d3b4e19931715"
-generated_at: "2026-10-04T18:21:38.035718+00:00"
+plan_hash: "513f8ddb56696e3a"
+generated_at: "2026-10-08T14:17:24.763541+00:00"
 manual_override: false
-internal_links: ["/services/lead-paint-abatement/", "/service-areas/swissvale-pa/", "/service-areas/baldwin-pa/lead-paint-abatement/", "/service-areas/bethel-park-pa/lead-paint-abatement/", "/contact/"]
+internal_links: ["/services/lead-paint-abatement/", "/service-areas/swissvale-pa/", "/service-areas/baldwin-pa/lead-paint-abatement/", "/service-areas/bellevue-pa/lead-paint-abatement/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Swissvale", "url": "/service-areas/swissvale-pa/"}, {"name": "Lead Paint Abatement"}]
 faq: []
 area_slug: "swissvale-pa"

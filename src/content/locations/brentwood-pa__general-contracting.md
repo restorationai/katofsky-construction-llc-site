@@ -7,10 +7,10 @@ primary_keyword: "renovations, remodels and general contracting brentwood"
 secondary_keywords: ["general contractor", "home renovation services", "home remodeling", "kitchen remodel", "bathroom remodel", "post-damage rebuild"]
 search_intent: "local_commercial"
 priority: 5.6
-plan_hash: "dbc52a0346be71f5"
-generated_at: "2026-10-03T18:37:06.143746+00:00"
+plan_hash: "582338cb684956a5"
+generated_at: "2026-10-08T14:17:24.758811+00:00"
 manual_override: false
-internal_links: ["/services/general-contracting/", "/service-areas/brentwood-pa/", "/service-areas/brentwood-pa/fire-damage-restoration/", "/service-areas/brentwood-pa/sewage-cleanup/", "/service-areas/baldwin-pa/general-contracting/", "/service-areas/bethel-park-pa/general-contracting/", "/contact/"]
+internal_links: ["/services/general-contracting/", "/service-areas/brentwood-pa/", "/service-areas/brentwood-pa/fire-damage-restoration/", "/service-areas/brentwood-pa/sewage-cleanup/", "/service-areas/baldwin-pa/general-contracting/", "/service-areas/bellevue-pa/general-contracting/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Brentwood", "url": "/service-areas/brentwood-pa/"}, {"name": "Renovations, Remodels and General Contracting"}]
 faq: []
 area_slug: "brentwood-pa"

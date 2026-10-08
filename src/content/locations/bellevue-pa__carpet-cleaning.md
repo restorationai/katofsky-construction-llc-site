@@ -8,7 +8,7 @@ secondary_keywords: ["professional carpet cleaning", "deep carpet cleaning", "ca
 search_intent: "local_specialty"
 priority: 2.8
 plan_hash: "a6afd6b68943f41a"
-generated_at: "2026-10-04T14:22:59.175690+00:00"
+generated_at: "2026-10-08T14:17:24.760681+00:00"
 manual_override: false
 internal_links: ["/services/carpet-cleaning/", "/service-areas/bellevue-pa/", "/service-areas/bellevue-pa/fire-damage-restoration/", "/service-areas/bellevue-pa/sewage-cleanup/", "/service-areas/allison-park-pa/carpet-cleaning/", "/service-areas/baldwin-pa/carpet-cleaning/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Bellevue", "url": "/service-areas/bellevue-pa/"}, {"name": "Carpet Cleaning"}]

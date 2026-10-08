@@ -7,10 +7,10 @@ primary_keyword: "sewage cleanup and sanitization brentwood"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
 priority: 6.3
-plan_hash: "0f1db4abc5d57cf5"
-generated_at: "2026-10-03T18:37:06.143982+00:00"
+plan_hash: "acb407e5dedf667f"
+generated_at: "2026-10-08T14:17:24.759275+00:00"
 manual_override: false
-internal_links: ["/services/sewage-cleanup/", "/service-areas/brentwood-pa/", "/service-areas/brentwood-pa/fire-damage-restoration/", "/service-areas/brentwood-pa/general-contracting/", "/service-areas/baldwin-pa/sewage-cleanup/", "/service-areas/bethel-park-pa/sewage-cleanup/", "/contact/"]
+internal_links: ["/services/sewage-cleanup/", "/service-areas/brentwood-pa/", "/service-areas/brentwood-pa/fire-damage-restoration/", "/service-areas/brentwood-pa/general-contracting/", "/service-areas/baldwin-pa/sewage-cleanup/", "/service-areas/bellevue-pa/sewage-cleanup/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Brentwood", "url": "/service-areas/brentwood-pa/"}, {"name": "Sewage Cleanup and Sanitization"}]
 faq: []
 area_slug: "brentwood-pa"

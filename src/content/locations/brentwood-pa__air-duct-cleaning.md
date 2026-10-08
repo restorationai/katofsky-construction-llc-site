@@ -7,10 +7,10 @@ primary_keyword: "air duct cleaning brentwood"
 secondary_keywords: ["duct cleaning", "HVAC duct cleaning", "air duct sanitization", "dryer vent cleaning", "residential duct cleaning"]
 search_intent: "local_specialty"
 priority: 3.5
-plan_hash: "30084df9ea0509d2"
-generated_at: "2026-10-03T18:37:06.143195+00:00"
+plan_hash: "d7eb828f1977ef81"
+generated_at: "2026-10-08T14:17:24.757265+00:00"
 manual_override: false
-internal_links: ["/services/air-duct-cleaning/", "/service-areas/brentwood-pa/", "/service-areas/brentwood-pa/fire-damage-restoration/", "/service-areas/brentwood-pa/sewage-cleanup/", "/service-areas/baldwin-pa/air-duct-cleaning/", "/service-areas/bethel-park-pa/air-duct-cleaning/", "/contact/"]
+internal_links: ["/services/air-duct-cleaning/", "/service-areas/brentwood-pa/", "/service-areas/brentwood-pa/fire-damage-restoration/", "/service-areas/brentwood-pa/sewage-cleanup/", "/service-areas/baldwin-pa/air-duct-cleaning/", "/service-areas/bellevue-pa/air-duct-cleaning/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Brentwood", "url": "/service-areas/brentwood-pa/"}, {"name": "Air Duct Cleaning"}]
 faq: []
 area_slug: "brentwood-pa"

@@ -8,7 +8,7 @@ secondary_keywords: ["lead paint removal", "lead paint testing", "lead-safe reno
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "4bdb8503b0a1b639"
-generated_at: "2026-10-04T14:22:59.175916+00:00"
+generated_at: "2026-10-08T14:17:24.762093+00:00"
 manual_override: false
 internal_links: ["/services/lead-paint-abatement/", "/service-areas/bellevue-pa/", "/service-areas/bellevue-pa/fire-damage-restoration/", "/service-areas/bellevue-pa/sewage-cleanup/", "/service-areas/baldwin-pa/lead-paint-abatement/", "/service-areas/bethel-park-pa/lead-paint-abatement/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Bellevue", "url": "/service-areas/bellevue-pa/"}, {"name": "Lead Paint Abatement"}]

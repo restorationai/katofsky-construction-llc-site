@@ -8,7 +8,7 @@ secondary_keywords: ["general contractor", "home renovation services", "home rem
 search_intent: "local_commercial"
 priority: 5.6
 plan_hash: "9f74a4842e21f4be"
-generated_at: "2026-10-04T14:22:59.175844+00:00"
+generated_at: "2026-10-08T14:17:24.761643+00:00"
 manual_override: false
 internal_links: ["/services/general-contracting/", "/service-areas/bellevue-pa/", "/service-areas/bellevue-pa/fire-damage-restoration/", "/service-areas/bellevue-pa/sewage-cleanup/", "/service-areas/baldwin-pa/general-contracting/", "/service-areas/bethel-park-pa/general-contracting/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Bellevue", "url": "/service-areas/bellevue-pa/"}, {"name": "Renovations, Remodels and General Contracting"}]

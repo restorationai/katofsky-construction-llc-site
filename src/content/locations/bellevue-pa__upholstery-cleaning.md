@@ -8,7 +8,7 @@ secondary_keywords: ["sofa cleaning", "couch cleaning", "furniture steam cleanin
 search_intent: "local_specialty"
 priority: 2.8
 plan_hash: "6295b4fb66a9aa07"
-generated_at: "2026-10-04T14:22:59.176064+00:00"
+generated_at: "2026-10-08T14:17:24.763053+00:00"
 manual_override: false
 internal_links: ["/services/upholstery-cleaning/", "/service-areas/bellevue-pa/", "/service-areas/bellevue-pa/fire-damage-restoration/", "/service-areas/bellevue-pa/sewage-cleanup/", "/service-areas/allison-park-pa/upholstery-cleaning/", "/service-areas/baldwin-pa/upholstery-cleaning/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Bellevue", "url": "/service-areas/bellevue-pa/"}, {"name": "Upholstery Cleaning"}]

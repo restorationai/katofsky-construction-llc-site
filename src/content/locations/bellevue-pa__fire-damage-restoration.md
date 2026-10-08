@@ -8,7 +8,7 @@ secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural f
 search_intent: "local_emergency"
 priority: 7.0
 plan_hash: "bb4e8262e1b567ca"
-generated_at: "2026-10-04T14:22:59.175764+00:00"
+generated_at: "2026-10-08T14:17:24.761141+00:00"
 manual_override: false
 internal_links: ["/services/fire-damage-restoration/", "/service-areas/bellevue-pa/", "/service-areas/bellevue-pa/sewage-cleanup/", "/service-areas/bellevue-pa/general-contracting/", "/service-areas/baldwin-pa/fire-damage-restoration/", "/service-areas/bethel-park-pa/fire-damage-restoration/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Bellevue", "url": "/service-areas/bellevue-pa/"}, {"name": "Fire Damage Restoration"}]

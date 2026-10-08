@@ -8,7 +8,7 @@ secondary_keywords: ["sofa cleaning", "couch cleaning", "furniture steam cleanin
 search_intent: "local_specialty"
 priority: 2.8
 plan_hash: "28b6396b346f1aa8"
-generated_at: "2026-10-03T18:37:06.144095+00:00"
+generated_at: "2026-10-08T14:17:24.759769+00:00"
 manual_override: false
 internal_links: ["/services/upholstery-cleaning/", "/service-areas/brentwood-pa/", "/service-areas/brentwood-pa/fire-damage-restoration/", "/service-areas/brentwood-pa/sewage-cleanup/", "/service-areas/allison-park-pa/upholstery-cleaning/", "/service-areas/baldwin-pa/upholstery-cleaning/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Brentwood", "url": "/service-areas/brentwood-pa/"}, {"name": "Upholstery Cleaning"}]

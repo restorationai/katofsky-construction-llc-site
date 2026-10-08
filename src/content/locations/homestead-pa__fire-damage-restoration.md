@@ -7,10 +7,10 @@ primary_keyword: "fire damage restoration homestead"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
 priority: 7.0
-plan_hash: "b496f8440d9767f1"
-generated_at: "2026-10-05T16:19:54.542045+00:00"
+plan_hash: "dc0641180e2e3fcc"
+generated_at: "2026-10-08T14:17:24.765832+00:00"
 manual_override: false
-internal_links: ["/services/fire-damage-restoration/", "/service-areas/homestead-pa/", "/service-areas/homestead-pa/sewage-cleanup/", "/service-areas/homestead-pa/asbestos-abatement/", "/service-areas/baldwin-pa/fire-damage-restoration/", "/service-areas/bellevue-pa/fire-damage-restoration/", "/contact/"]
+internal_links: ["/services/fire-damage-restoration/", "/service-areas/homestead-pa/", "/service-areas/homestead-pa/reconstruction/", "/service-areas/homestead-pa/asbestos-abatement/", "/service-areas/baldwin-pa/fire-damage-restoration/", "/service-areas/bellevue-pa/fire-damage-restoration/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Homestead", "url": "/service-areas/homestead-pa/"}, {"name": "Fire Damage Restoration"}]
 faq: []
 area_slug: "homestead-pa"
