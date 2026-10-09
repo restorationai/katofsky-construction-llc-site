@@ -40,9 +40,9 @@ export const brand = {
   // copy). addressCity/addressState = where the business PHYSICALLY is.
   // They are usually the same and often diverge (DISS: Farrell PA office,
   // Youngstown OH target) — only the address pair may go in a PostalAddress.
-  addressCity: "Pittsburgh",
+  addressCity: "Plum",
   addressState: "PA",
-  streetAddress: "150 Leroy st ",
+  streetAddress: "555 Davidson Rd",
   postalCode: "15239",
   lat: "40.4406968",
   lng: "-80.0025666",

@@ -40,7 +40,7 @@ You can reach us by:
 
 - **Email:** michael@katofskyconstruction.com
 - **Phone:** (412) 304-9284
-- **Mail:** Katofsky Construction LLC, 150 Leroy St, Pittsburgh, PA 15239
+- **Mail:** Katofsky Construction LLC, 555 Davidson Rd, Plum, PA 15239
 
 ## Alternative Ways to Reach Us
 

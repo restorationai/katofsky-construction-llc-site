@@ -49,7 +49,7 @@ Because Katofsky Construction LLC operates exclusively in the Pittsburgh, PA are
 For any question about this policy or how your information is handled, reach us at:
 
 Katofsky Construction LLC
-150 Leroy St, Pittsburgh, PA 15239
+555 Davidson Rd, Plum, PA 15239
 Email: michael@katofskyconstruction.com
 Phone: (412) 304-9284
 

@@ -27,4 +27,4 @@ If you need a damage assessment scheduled, have a question about your insurance 
 
 ## Where we're located
 
-The office is at **150 Leroy Street, Pittsburgh, PA 15239**, in the Plum Borough area of Allegheny County. From there, the crew serves Pittsburgh and the surrounding communities, including Penn Hills, Monroeville, Murrysville, Oakmont, and the broader eastern suburbs. If you are unsure whether your property falls within the service area, call or email and we will confirm quickly.
+The office is at **555 Davidson Road, Plum, PA 15239**, in Plum Borough, Allegheny County. From there, the crew serves Pittsburgh and the surrounding communities, including Penn Hills, Monroeville, Murrysville, Oakmont, and the broader eastern suburbs. If you are unsure whether your property falls within the service area, call or email and we will confirm quickly.
