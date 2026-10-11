@@ -12,7 +12,7 @@ og: "/images/blog/2026/10/what-to-do-first-24-hours-water-damage/hero.webp"
 plan_hash: "d7733d880b96dfb0"
 generated_at: "2026-09-25T14:14:32.702104+00:00"
 manual_override: false
-internal_links: ["/blog/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/choosing-a-restoration-company/", "/blog/does-homeowners-insurance-cover-water-damage/"]
+internal_links: ["/blog/", "/blog/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/choosing-a-restoration-company/", "/blog/does-homeowners-insurance-cover-water-damage/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "What To Do in the First 24 Hours After Water Damage"}]
 faq: []
 published_at: "2026-09-22"

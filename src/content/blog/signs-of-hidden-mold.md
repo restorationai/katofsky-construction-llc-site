@@ -12,7 +12,7 @@ og: "/images/blog/2026/10/signs-of-hidden-mold/hero.webp"
 plan_hash: "4e59dc3b84db50af"
 generated_at: "2026-09-25T14:14:32.702519+00:00"
 manual_override: false
-internal_links: ["/blog/", "/services/mold-remediation/", "/blog/choosing-a-restoration-company/", "/blog/how-to-test-for-mold/", "/blog/black-mold-vs-regular-mold/"]
+internal_links: ["/blog/", "/blog/choosing-a-restoration-company/", "/blog/how-to-test-for-mold/", "/blog/black-mold-vs-regular-mold/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "7 Signs You Have Hidden Mold (and What To Do Next)"}]
 faq: []
 published_at: "2026-09-12"

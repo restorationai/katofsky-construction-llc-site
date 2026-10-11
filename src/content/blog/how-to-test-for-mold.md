@@ -12,7 +12,7 @@ og: "/images/blog/2026/10/how-to-test-for-mold/hero.webp"
 plan_hash: "39aa50346175f2e4"
 generated_at: "2026-09-25T14:14:32.702639+00:00"
 manual_override: false
-internal_links: ["/blog/", "/services/mold-remediation/", "/services/mold-inspection-testing/", "/blog/choosing-a-restoration-company/", "/blog/signs-of-hidden-mold/", "/blog/black-mold-vs-regular-mold/"]
+internal_links: ["/blog/", "/blog/choosing-a-restoration-company/", "/blog/signs-of-hidden-mold/", "/blog/black-mold-vs-regular-mold/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Test for Mold in Your Home (DIY Kits vs a Pro Inspection)"}]
 faq: []
 published_at: "2026-09-12"

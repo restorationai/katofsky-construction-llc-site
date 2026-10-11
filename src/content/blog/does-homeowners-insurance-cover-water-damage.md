@@ -12,7 +12,7 @@ og: "/images/blog/2026/10/does-homeowners-insurance-cover-water-damage/hero.webp
 plan_hash: "dff3fea33c65f11b"
 generated_at: "2026-09-25T14:14:32.702382+00:00"
 manual_override: false
-internal_links: ["/blog/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/choosing-a-restoration-company/"]
+internal_links: ["/blog/", "/blog/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/choosing-a-restoration-company/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Does Homeowners Insurance Cover Water Damage? A Plain-English Guide"}]
 faq: []
 published_at: "2026-09-08"

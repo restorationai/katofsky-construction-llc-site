@@ -12,7 +12,7 @@ og: "/images/blog/2026/10/burst-pipe-emergency-checklist/hero.webp"
 plan_hash: "e68240da9b49668f"
 generated_at: "2026-09-25T14:14:32.702253+00:00"
 manual_override: false
-internal_links: ["/blog/", "/services/water-damage-restoration/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/choosing-a-restoration-company/", "/blog/does-homeowners-insurance-cover-water-damage/"]
+internal_links: ["/blog/", "/blog/water-damage-restoration/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/choosing-a-restoration-company/", "/blog/does-homeowners-insurance-cover-water-damage/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Burst Pipe Emergency Checklist: Step-by-Step Response"}]
 faq: []
 published_at: "2026-09-10"
