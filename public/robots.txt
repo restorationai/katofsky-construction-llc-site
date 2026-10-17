@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://katofskyconstruction.com/sitemap-index.xml
+Sitemap: https://kcsrestore.com/sitemap-index.xml

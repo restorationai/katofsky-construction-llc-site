@@ -28,8 +28,8 @@ These `{{TOKEN}}` strings are substituted by `build_site.py scaffold` from `plan
 | `Katofsky Construction LLC` | plan-input `brand.display_name` | `National Restoration Construction` |
 | `Katofsky Construction LLC` | plan-input `brand.short_name` | `NARESTCO` |
 | `Katofsky Construction LLC` | plan-input `brand.legal_name` | `National Restoration Construction LLC` |
-| `katofskyconstruction.com` | client record `domain` | `narestco.com` |
-| `https://katofskyconstruction.com` | derived | `https://narestco.com` |
+| `kcsrestore.com` | client record `domain` | `narestco.com` |
+| `https://kcsrestore.com` | derived | `https://narestco.com` |
 | `(412) 304-9284` / `+14123049284` | brand.phone | `(206) 883-0333` / `+12068830333` |
 | `michael@katofskyconstruction.com` | brand.email | `info@narestco.com` |
 | `24/7` | brand.hours | `24/7` |
@@ -47,48 +47,48 @@ These `{{TOKEN}}` strings are substituted by `build_site.py scaffold` from `plan
 | `#171717` etc. | brand.colors (set per client or default to restoration palette) | `#0b3a7a` |
 | `Inter` / `Inter` | brand.fonts | `Inter` / `Inter` |
 | `/images/logo.png` / `KC` | derived; logo lives on the per-client R2 bucket | |
-| `https://images.katofskyconstruction.com` | `https://images.{domain}` | |
-| `- [Fire Damage Restoration](https://katofskyconstruction.com/services/fire-damage-restoration/)
-- [Renovations, Remodels and General Contracting](https://katofskyconstruction.com/services/general-contracting/)
-- [Roofing Installation and Replacement](https://katofskyconstruction.com/services/roofing/)
-- [Sewage Cleanup and Sanitization](https://katofskyconstruction.com/services/sewage-cleanup/)
-- [Biohazard Cleanup](https://katofskyconstruction.com/services/biohazard-cleanup/)
-- [Asbestos Abatement](https://katofskyconstruction.com/services/asbestos-abatement/)
-- [Lead Paint Abatement](https://katofskyconstruction.com/services/lead-paint-abatement/)
-- [Emergency Board-Up and Tarping](https://katofskyconstruction.com/services/emergency-board-up-tarping/)
-- [Contents Restoration & Storage](https://katofskyconstruction.com/services/contents-restoration-storage/)
-- [Air Duct Cleaning](https://katofskyconstruction.com/services/air-duct-cleaning/)
-- [Carpet Cleaning](https://katofskyconstruction.com/services/carpet-cleaning/)
-- [Upholstery Cleaning](https://katofskyconstruction.com/services/upholstery-cleaning/)` / `- [Pittsburgh, PA](https://katofskyconstruction.com/service-areas/pittsburgh-pa/)
-- [Penn Hills, PA](https://katofskyconstruction.com/service-areas/penn-hills-pa/)
-- [McCandless, PA](https://katofskyconstruction.com/service-areas/mccandless-pa/)
-- [Bethel Park, PA](https://katofskyconstruction.com/service-areas/bethel-park-pa/)
-- [Mount Lebanon, PA](https://katofskyconstruction.com/service-areas/mount-lebanon-pa/)
-- [Ross Township, PA](https://katofskyconstruction.com/service-areas/ross-township-pa/)
-- [Monroeville, PA](https://katofskyconstruction.com/service-areas/monroeville-pa/)
-- [Shaler Township, PA](https://katofskyconstruction.com/service-areas/shaler-township-pa/)
-- [Plum, PA](https://katofskyconstruction.com/service-areas/plum-pa/)
-- [West Mifflin, PA](https://katofskyconstruction.com/service-areas/west-mifflin-pa/)
-- [McKeesport, PA](https://katofskyconstruction.com/service-areas/mckeesport-pa/)
-- [Baldwin, PA](https://katofskyconstruction.com/service-areas/baldwin-pa/)
-- [Greensburg, PA](https://katofskyconstruction.com/service-areas/greensburg-pa/)
-- [Hempfield Township, PA](https://katofskyconstruction.com/service-areas/hempfield-township-pa/)
-- [North Huntingdon, PA](https://katofskyconstruction.com/service-areas/north-huntingdon-pa/)
-- [New Kensington, PA](https://katofskyconstruction.com/service-areas/new-kensington-pa/)
-- [Murrysville, PA](https://katofskyconstruction.com/service-areas/murrysville-pa/)
-- [Latrobe, PA](https://katofskyconstruction.com/service-areas/latrobe-pa/)
-- [Lower Burrell, PA](https://katofskyconstruction.com/service-areas/lower-burrell-pa/)
-- [Jeannette, PA](https://katofskyconstruction.com/service-areas/jeannette-pa/)
-- [Green Tree, PA](https://katofskyconstruction.com/service-areas/green-tree-pa/)
-- [Carnegie, PA](https://katofskyconstruction.com/service-areas/carnegie-pa/)
-- [Castle Shannon, PA](https://katofskyconstruction.com/service-areas/castle-shannon-pa/)
-- [Whitehall, PA](https://katofskyconstruction.com/service-areas/whitehall-pa/)
-- [Munhall, PA](https://katofskyconstruction.com/service-areas/munhall-pa/)
-- [Glenshaw, PA](https://katofskyconstruction.com/service-areas/glenshaw-pa/)
-- [Pleasant Hills, PA](https://katofskyconstruction.com/service-areas/pleasant-hills-pa/)
-- [Wilkinsburg, PA](https://katofskyconstruction.com/service-areas/wilkinsburg-pa/)
-- [Forest Hills, PA](https://katofskyconstruction.com/service-areas/forest-hills-pa/)
-- [Allison Park, PA](https://katofskyconstruction.com/service-areas/allison-park-pa/)` / `IICRC CERTIFIED FIRM, IICRC WRT (WATER), IICRC AMRT (MOLD)` / `Greater Pittsburgh region` | computed at scaffold from plan + brand | |
+| `https://images.kcsrestore.com` | `https://images.{domain}` | |
+| `- [Fire Damage Restoration](https://kcsrestore.com/services/fire-damage-restoration/)
+- [Renovations, Remodels and General Contracting](https://kcsrestore.com/services/general-contracting/)
+- [Roofing Installation and Replacement](https://kcsrestore.com/services/roofing/)
+- [Sewage Cleanup and Sanitization](https://kcsrestore.com/services/sewage-cleanup/)
+- [Biohazard Cleanup](https://kcsrestore.com/services/biohazard-cleanup/)
+- [Asbestos Abatement](https://kcsrestore.com/services/asbestos-abatement/)
+- [Lead Paint Abatement](https://kcsrestore.com/services/lead-paint-abatement/)
+- [Emergency Board-Up and Tarping](https://kcsrestore.com/services/emergency-board-up-tarping/)
+- [Contents Restoration & Storage](https://kcsrestore.com/services/contents-restoration-storage/)
+- [Air Duct Cleaning](https://kcsrestore.com/services/air-duct-cleaning/)
+- [Carpet Cleaning](https://kcsrestore.com/services/carpet-cleaning/)
+- [Upholstery Cleaning](https://kcsrestore.com/services/upholstery-cleaning/)` / `- [Pittsburgh, PA](https://kcsrestore.com/service-areas/pittsburgh-pa/)
+- [Penn Hills, PA](https://kcsrestore.com/service-areas/penn-hills-pa/)
+- [McCandless, PA](https://kcsrestore.com/service-areas/mccandless-pa/)
+- [Bethel Park, PA](https://kcsrestore.com/service-areas/bethel-park-pa/)
+- [Mount Lebanon, PA](https://kcsrestore.com/service-areas/mount-lebanon-pa/)
+- [Ross Township, PA](https://kcsrestore.com/service-areas/ross-township-pa/)
+- [Monroeville, PA](https://kcsrestore.com/service-areas/monroeville-pa/)
+- [Shaler Township, PA](https://kcsrestore.com/service-areas/shaler-township-pa/)
+- [Plum, PA](https://kcsrestore.com/service-areas/plum-pa/)
+- [West Mifflin, PA](https://kcsrestore.com/service-areas/west-mifflin-pa/)
+- [McKeesport, PA](https://kcsrestore.com/service-areas/mckeesport-pa/)
+- [Baldwin, PA](https://kcsrestore.com/service-areas/baldwin-pa/)
+- [Greensburg, PA](https://kcsrestore.com/service-areas/greensburg-pa/)
+- [Hempfield Township, PA](https://kcsrestore.com/service-areas/hempfield-township-pa/)
+- [North Huntingdon, PA](https://kcsrestore.com/service-areas/north-huntingdon-pa/)
+- [New Kensington, PA](https://kcsrestore.com/service-areas/new-kensington-pa/)
+- [Murrysville, PA](https://kcsrestore.com/service-areas/murrysville-pa/)
+- [Latrobe, PA](https://kcsrestore.com/service-areas/latrobe-pa/)
+- [Lower Burrell, PA](https://kcsrestore.com/service-areas/lower-burrell-pa/)
+- [Jeannette, PA](https://kcsrestore.com/service-areas/jeannette-pa/)
+- [Green Tree, PA](https://kcsrestore.com/service-areas/green-tree-pa/)
+- [Carnegie, PA](https://kcsrestore.com/service-areas/carnegie-pa/)
+- [Castle Shannon, PA](https://kcsrestore.com/service-areas/castle-shannon-pa/)
+- [Whitehall, PA](https://kcsrestore.com/service-areas/whitehall-pa/)
+- [Munhall, PA](https://kcsrestore.com/service-areas/munhall-pa/)
+- [Glenshaw, PA](https://kcsrestore.com/service-areas/glenshaw-pa/)
+- [Pleasant Hills, PA](https://kcsrestore.com/service-areas/pleasant-hills-pa/)
+- [Wilkinsburg, PA](https://kcsrestore.com/service-areas/wilkinsburg-pa/)
+- [Forest Hills, PA](https://kcsrestore.com/service-areas/forest-hills-pa/)
+- [Allison Park, PA](https://kcsrestore.com/service-areas/allison-park-pa/)` / `IICRC CERTIFIED FIRM, IICRC WRT (WATER), IICRC AMRT (MOLD)` / `Greater Pittsburgh region` | computed at scaffold from plan + brand | |
 
 ## File layout
 

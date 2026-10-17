@@ -18,7 +18,7 @@ rendered: true
 ---
 ## Our Commitment to Accessibility
 
-Katofsky Construction LLC is committed to making katofskyconstruction.com usable by everyone, including people who rely on assistive technologies such as screen readers, keyboard navigation, or display magnification. We believe access to information about restoration and construction services should not depend on a visitor's physical or cognitive abilities.
+Katofsky Construction LLC is committed to making kcsrestore.com usable by everyone, including people who rely on assistive technologies such as screen readers, keyboard navigation, or display magnification. We believe access to information about restoration and construction services should not depend on a visitor's physical or cognitive abilities.
 
 This site is built with the goal of conforming to the Web Content Accessibility Guidelines (WCAG) 2.1 at Level AA, the current recognized standard for web accessibility. Those guidelines address how content is perceived, operated, navigated, and understood across a wide range of devices and assistive tools.
 

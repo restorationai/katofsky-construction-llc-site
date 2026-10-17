@@ -18,7 +18,7 @@ rendered: true
 ---
 ## Who These Terms Apply To
 
-By using this website or requesting services from Katofsky Construction LLC, you agree to the terms described here. These terms apply to visitors, prospective customers, and anyone who submits a contact or estimate request through katofskyconstruction.com.
+By using this website or requesting services from Katofsky Construction LLC, you agree to the terms described here. These terms apply to visitors, prospective customers, and anyone who submits a contact or estimate request through kcsrestore.com.
 
 ## Service Area and Availability
 
@@ -46,7 +46,7 @@ If a dispute arises from services provided, both parties agree to first attempt 
 
 ## Changes to These Terms
 
-Katofsky Construction LLC may update these terms at any time. The current version will always be available at katofskyconstruction.com. Continued use of the site after an update constitutes acceptance of the revised terms.
+Katofsky Construction LLC may update these terms at any time. The current version will always be available at kcsrestore.com. Continued use of the site after an update constitutes acceptance of the revised terms.
 
 ## Contact
 

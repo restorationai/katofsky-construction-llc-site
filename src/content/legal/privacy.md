@@ -18,7 +18,7 @@ rendered: true
 ---
 ## What This Policy Covers
 
-This privacy policy explains how Katofsky Construction LLC collects, uses, and protects information submitted through katofskyconstruction.com. It applies to visitors who contact us through the site, request an estimate, or otherwise share personal information with us. If you have questions at any point, reach us directly at michael@katofskyconstruction.com or (412) 304-9284.
+This privacy policy explains how Katofsky Construction LLC collects, uses, and protects information submitted through kcsrestore.com. It applies to visitors who contact us through the site, request an estimate, or otherwise share personal information with us. If you have questions at any point, reach us directly at michael@katofskyconstruction.com or (412) 304-9284.
 
 ## Information We Collect
 

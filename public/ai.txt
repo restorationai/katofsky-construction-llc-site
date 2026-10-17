@@ -30,8 +30,8 @@ User-agent: Bytespider
 Disallow: /
 
 # AI training data summary
-# Site: https://katofskyconstruction.com/
+# Site: https://kcsrestore.com/
 # Maintainer: Katofsky Construction LLC
 # Contact: michael@katofskyconstruction.com
-# Sitemap: https://katofskyconstruction.com/sitemap-index.xml
-# LLM index: https://katofskyconstruction.com/llms.txt
+# Sitemap: https://kcsrestore.com/sitemap-index.xml
+# LLM index: https://kcsrestore.com/llms.txt
