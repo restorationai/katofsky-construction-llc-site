@@ -48,7 +48,7 @@ Look for a contractor who is registered as a Pennsylvania Home Improvement Contr
 
 Beyond registration, three things separate a smooth rebuild from a stalled one: a written, itemized estimate (not a verbal ballpark), a realistic permit timeline for your municipality (Pittsburgh proper, Plum, Penn Hills, and the surrounding boroughs each process permits on their own schedule), and familiarity with the [International Code Council](https://www.iccsafe.org/) code edition your jurisdiction has adopted. Framing and electrical work that doesn't pass inspection means tearing it back open, which costs more than doing it right once.
 
-If your rebuild follows a fire, see our [fire damage restoration process](/blog/fire-damage-restoration-process/) breakdown for how mitigation and reconstruction typically hand off. If it follows water damage, our [water damage restoration](/blog/water-damage-restoration/) guide covers the drying phase that comes before any rebuild starts.
+If your rebuild follows a fire, see our [fire damage restoration process](/blog/fire-damage-restoration-process/) breakdown for how mitigation and reconstruction typically hand off. If it follows water damage, our [water damage restoration](/blog/) guide covers the drying phase that comes before any rebuild starts.
 
 ## How Does Insurance Work With the Reconstruction Phase?
 
