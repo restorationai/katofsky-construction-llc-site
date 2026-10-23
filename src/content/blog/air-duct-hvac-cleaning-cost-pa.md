@@ -13,14 +13,14 @@ generated_at: "2026-10-07T01:45:08Z"
 manual_override: false
 internal_links: ["/services/air-duct-cleaning/", "/contact/", "/blog/iicrc-certification-explained/", "/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How Much Does Air Duct HVAC Cleaning Cost in PA? (2026)"}]
-faq: [{"question": "How much does air duct HVAC cleaning cost in PA?", "answer": "Most Pennsylvania homeowners pay $350 to $650 for a standard single-family home with one HVAC system, and $650 to $1,200 for larger homes with multiple zones. Mold treatment, dryer vent cleaning, and sealing are typically priced as add-ons on top of the base service."}, {"question": "How often should air ducts actually be cleaned?", "answer": "There's no fixed schedule for most homes; the EPA notes routine cleaning isn't proven necessary without a specific issue. Clean them after a renovation, a water or smoke event, visible mold, or a pest infestation, or if a technician finds heavy debris during an inspection."}, {"question": "Will duct cleaning help with allergies or asthma?", "answer": "It can help if dust, pet dander, or mold spores have been circulating through a contaminated system, but it isn't a guaranteed fix for every allergy issue. If symptoms persist after cleaning, the source may be elsewhere in the home, such as carpet or upholstery."}, {"question": "Is duct cleaning covered by homeowners insurance?", "answer": "Routine duct cleaning for dust or allergens generally isn't covered. Insurance typically only pays for duct cleaning when it's required to remediate damage from a covered peril, like smoke after a fire or mold following a covered water loss, and it gets documented as part of that claim."}, {"question": "How long does a typical duct cleaning job take?", "answer": "Most single-family homes take two to five hours depending on the number of vents and system complexity. Larger homes with multiple HVAC zones, or systems that need mold treatment, can take longer."}]
+faq: [{"question": "How much does air duct HVAC cleaning cost in PA?", "answer": "Most Pennsylvania homeowners pay $350 to $650 for a standard single-family home with one HVAC system, and $650 to $1,200 for larger homes with multiple zones. Dryer vent cleaning and duct sealing are typically priced as add-ons on top of the base service."}, {"question": "How often should air ducts actually be cleaned?", "answer": "There's no fixed schedule for most homes; the EPA notes routine cleaning isn't proven necessary without a specific issue. Clean them after a renovation, a water or smoke event, visible mold, or a pest infestation, or if a technician finds heavy debris during an inspection."}, {"question": "Will duct cleaning help with allergies or asthma?", "answer": "It can help if dust, pet dander, or mold spores have been circulating through a contaminated system, but it isn't a guaranteed fix for every allergy issue. If symptoms persist after cleaning, the source may be elsewhere in the home, such as carpet or upholstery."}, {"question": "Is duct cleaning covered by homeowners insurance?", "answer": "Routine duct cleaning for dust or allergens generally isn't covered. Insurance typically only pays for duct cleaning when it's required to remediate damage from a covered peril, like smoke after a fire or mold following a covered water loss, and it gets documented as part of that claim."}, {"question": "How long does a typical duct cleaning job take?", "answer": "Most single-family homes take two to five hours depending on the number of vents and system complexity. Larger homes with multiple HVAC zones, or systems with heavy debris, can take longer."}]
 published_at: "2026-10-07"
 updated_at: "2026-10-07"
 services: []
 rendered: true
 author: "Michael Katofsky"
 ---
-**TL;DR:** In Pennsylvania, professional air duct and HVAC cleaning typically costs $350 to $650 for an average single-family home with one or two systems, and $650 to $1,200 for larger homes with multiple units. Price depends on the number of supply and return vents, the age and layout of the ductwork, and whether mold or heavy debris requires extra treatment. Most jobs take two to five hours and include a full system inspection before and after cleaning.
+**TL;DR:** In Pennsylvania, professional air duct and HVAC cleaning typically costs $350 to $650 for an average single-family home with one or two systems, and $650 to $1,200 for larger homes with multiple units. Price depends on the number of supply and return vents, the age and layout of the ductwork, and whether heavy debris requires extra cleaning. Most jobs take two to five hours and include a full system inspection before and after cleaning.
 
 If you just had your furnace serviced and the technician mentioned the ducts haven't been cleaned in years, or you're prepping a Pittsburgh-area home for sale and want the HVAC system to check out clean on inspection, the price question comes first. Here's what Pennsylvania homeowners actually pay, what moves that number up or down, and what a legitimate cleaning job involves from start to finish.
 
@@ -33,7 +33,6 @@ Most Pennsylvania homeowners pay between $350 and $1,200 for professional duct a
 | Single-family home, 1 HVAC system, standard ductwork | $350 - $650 |
 | Larger home, 2+ HVAC zones or systems | $650 - $1,200 |
 | Dryer vent cleaning (add-on) | $100 - $175 |
-| Mold/microbial treatment inside ducts | $450 - $900 additional |
 | Full duct sanitizing and sealing | $200 - $400 additional |
 | Small commercial or multi-unit building | $1,000 and up, by square footage |
 
@@ -49,7 +48,7 @@ Other factors that change the price:
 
 - **Number of supply and return vents.** Most single-family homes have 8 to 20 registers; pricing often scales per vent past a baseline.
 - **System type.** Forced-air furnaces and central AC ducts are the most common job; boiler and radiator systems don't have ductwork to clean, which is worth confirming before you book anything.
-- **Visible mold or moisture staining.** If a technician finds microbial growth inside the ducts (common after a basement flood or a long-ignored condensate leak), that requires treatment per [IICRC](https://www.iicrc.org) guidelines, not just a vacuum pass, and adds to the cost.
+- **Visible mold or moisture staining.** If a technician finds mold growth inside the ducts (common after a basement flood or a long-ignored condensate leak), cleaning alone is not the answer. Katofsky Construction LLC does not treat mold; that part of the job is referred to a mold remediation specialist before duct cleaning goes ahead.
 - **Dryer vent condition.** Lint buildup in a dryer vent is a fire hazard, not just an efficiency issue, and most companies price it separately from the main HVAC system.
 
 ![What makes the price go up or down: air duct hvac cleaning cost PA](/images/blog/2026/10/air-duct-hvac-cleaning-cost-pa/section.webp)
@@ -68,7 +67,7 @@ A legitimate duct cleaning job follows a sequence: inspection, containment, agit
 2. **Sealing and containment.** Registers not being actively cleaned get sealed to keep debris from blowing into the room, and the system is put under negative pressure using a HEPA-filtered vacuum connected to the main trunk.
 3. **Agitation.** A rotary brush or air whip knocks loose dust, debris, and pet hair from the interior duct walls so the vacuum can pull it out, rather than just pushing dust further down the line.
 4. **Extraction.** The HEPA vacuum collects everything that's been loosened, including from the furthest branch runs, not just the registers closest to the unit.
-5. **Treatment, if needed.** If mold or heavy microbial growth was found during inspection, an [EPA](https://www.epa.gov/indoor-air-quality-iaq)-aligned antimicrobial treatment is applied to the interior duct surfaces.
+5. **Referral, if needed.** If mold growth was found during inspection, Katofsky Construction LLC refers that part of the job to a mold remediation specialist rather than treating it. The [EPA's indoor air quality guidance](https://www.epa.gov/indoor-air-quality-iaq) explains why the moisture source has to be fixed first.
 6. **Final inspection.** A reputable company shows you before-and-after photos or camera footage so you can see what actually came out of the system, not just a receipt.
 
 Avoid any company that skips the inspection step or can't explain what equipment they're using. [NADCA](https://nadca.com), the industry's national trade association, publishes standards for exactly this kind of work, and a company that can walk through its process against those standards is one worth trusting.
@@ -79,10 +78,10 @@ It's time to schedule a cleaning when you notice visible dust blowing from vents
 
 Duct cleaning isn't an annual maintenance item for most homes. The EPA notes there's no evidence that routine duct cleaning prevents health problems in a typical home without a specific contamination issue. The exceptions are homes with recent water damage, visible mold, a smoke event, rodent infestation, or a renovation that left construction dust in the system. If one of those applies, [schedule a duct inspection](tel:+14123049284) rather than guessing.
 
-For homes in the Pittsburgh area dealing with ductwork affected by a recent flood, fire, or mold issue, the cleaning usually isn't a standalone job. It's one piece of a larger remediation scope that also covers the structure and contents around it.
+For homes in the Pittsburgh area dealing with ductwork affected by a recent fire or sewage backup, the cleaning usually isn't a standalone job. It's one piece of a larger remediation scope that also covers the structure and contents around it.
 
 ---
 
 **About Katofsky Construction LLC**
 
-Katofsky Construction LLC is an IICRC Certified Firm serving Pittsburgh, PA and the surrounding communities, licensed (PA HIC #090877) and insured. Founded and operated by Michael Katofsky, the company handles air duct and HVAC cleaning, water and sewage cleanup, fire damage restoration, mold remediation, asbestos and lead paint abatement, and general contracting across the greater Pittsburgh region. The team is available 24/7 for emergency response.
+Katofsky Construction LLC is an IICRC Certified Firm serving Pittsburgh, PA and the surrounding communities, licensed (PA HIC #090877) and insured. Founded and operated by Michael Katofsky, the company handles air duct and HVAC cleaning, sewage cleanup, fire damage restoration, asbestos and lead paint abatement, and general contracting across the greater Pittsburgh region. The team is available 24/7 for emergency response.

@@ -1,4 +1,13 @@
 {
+  "/images/hero-bg.webp": {
+    "width": 1500,
+    "height": 843,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
   "/images/services.webp": {
     "width": 2000,
     "height": 1333,
@@ -8,52 +17,7 @@
       1200
     ]
   },
-  "/images/services/air-duct-cleaning.webp": {
-    "width": 1376,
-    "height": 768,
-    "variants": [
-      480,
-      768,
-      1200
-    ]
-  },
-  "/images/services/asbestos-abatement.webp": {
-    "width": 1376,
-    "height": 768,
-    "variants": [
-      480,
-      768,
-      1200
-    ]
-  },
-  "/images/services/biohazard-cleanup.webp": {
-    "width": 1376,
-    "height": 768,
-    "variants": [
-      480,
-      768,
-      1200
-    ]
-  },
   "/images/services/carpet-cleaning.webp": {
-    "width": 1376,
-    "height": 768,
-    "variants": [
-      480,
-      768,
-      1200
-    ]
-  },
-  "/images/services/contents-restoration-storage.webp": {
-    "width": 1376,
-    "height": 768,
-    "variants": [
-      480,
-      768,
-      1200
-    ]
-  },
-  "/images/services/emergency-board-up-tarping.webp": {
     "width": 1376,
     "height": 768,
     "variants": [
@@ -72,17 +36,8 @@
     ]
   },
   "/images/services/general-contracting.webp": {
-    "width": 1376,
-    "height": 768,
-    "variants": [
-      480,
-      768,
-      1200
-    ]
-  },
-  "/images/services/lead-paint-abatement.webp": {
-    "width": 1376,
-    "height": 768,
+    "width": 1500,
+    "height": 1000,
     "variants": [
       480,
       768,
@@ -108,8 +63,8 @@
     ]
   },
   "/images/services/sewage-cleanup.webp": {
-    "width": 1376,
-    "height": 768,
+    "width": 1500,
+    "height": 1000,
     "variants": [
       480,
       768,
@@ -125,18 +80,9 @@
       1200
     ]
   },
-  "/images/services/trauma-scene-cleanup.webp": {
-    "width": 1376,
-    "height": 768,
-    "variants": [
-      480,
-      768,
-      1200
-    ]
-  },
-  "/images/services/upholstery-cleaning.webp": {
-    "width": 1376,
-    "height": 768,
+  "/images/team.webp": {
+    "width": 1500,
+    "height": 1000,
     "variants": [
       480,
       768,

@@ -17,47 +17,7 @@ import type { BeforeAfterPair } from "~/components/ui/BeforeAfterSection.astro";
  *   - Cleaning               -> carpet / upholstery / tile & grout
  *   - Remodel/renovation     -> ONLY if the client does GC / remodeling
  */
-export const workPairs: BeforeAfterPair[] = [
-  {
-    label: "Fire & Smoke Restoration",
-    beforeSrc: "/images/before-after/fire-before.webp",
-    beforeAlt: "Living room with severe fire damage and charred walls before restoration",
-    afterSrc: "/images/before-after/fire-after.webp",
-    afterAlt: "Same living room fully rebuilt and restored after fire damage",
-  },
-  {
-    label: "Sewage Cleanup",
-    beforeSrc: "/images/before-after/sewage-before.webp",
-    beforeAlt: "Basement floor after a sewage backup before cleanup",
-    afterSrc: "/images/before-after/sewage-after.webp",
-    afterAlt: "Same basement floor disinfected and dry after cleanup",
-  },
-  {
-    label: "Carpet Cleaning",
-    beforeSrc: "/images/before-after/carpet-before.webp",
-    beforeAlt: "Heavily soiled carpet with traffic lanes before cleaning",
-    afterSrc: "/images/before-after/carpet-after.webp",
-    afterAlt: "Same carpet restored to like-new condition after cleaning",
-  },
-  {
-    label: "Air Duct Cleaning",
-    beforeSrc: "/images/before-after/duct-before.webp",
-    beforeAlt: "HVAC duct interior caked with dust before cleaning",
-    afterSrc: "/images/before-after/duct-after.webp",
-    afterAlt: "Same duct interior spotless after professional cleaning",
-  },
-  {
-    label: "Remodeling & Renovation",
-    beforeSrc: "/images/before-after/remodel-before.webp",
-    beforeAlt: "Dated kitchen mid-teardown with worn oak cabinets and exposed wall studs before remodel",
-    afterSrc: "/images/before-after/remodel-after.webp",
-    afterAlt: "Same kitchen fully remodeled with white shaker cabinets, quartz counters and new flooring",
-  },
-  {
-    label: "Roofing",
-    beforeSrc: "/images/before-after/roofing-before.webp",
-    beforeAlt: "House with badly worn shingle roof, curling and missing shingles exposing underlayment",
-    afterSrc: "/images/before-after/roofing-after.webp",
-    afterAlt: "Same house with a brand new architectural shingle roof and straightened gutters",
-  },
-];
+// Real project photos only (client strategy 7972bb6e): the generated
+// pairs were removed 2026-10-23 and the section self-hides until Michael
+// sends real before/after pairs.
+export const workPairs: BeforeAfterPair[] = [];
