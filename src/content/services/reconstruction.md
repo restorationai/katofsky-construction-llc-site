@@ -26,7 +26,7 @@ Reconstruction covers everything from a single room of drywall and paint to full
 ## Our process
 
 1. **Scope of work.** Before any lumber is ordered, we document existing conditions, measure the affected areas, and write a detailed scope that spells out materials, labor, and sequence. This is the document an adjuster reviews against the estimate.
-2. **Permits.** Structural work, electrical, and plumbing tie-ins typically require permits through the City of Pittsburgh or the relevant municipal building department. We pull what's required before framing starts, not after an inspector flags it.
+2. **Permits.** Structural work, electrical, and plumbing tie-ins typically require permits through the City of Pittsburgh or the relevant municipal building department. We pull what's required before framing starts, not after an inspector flags it. (More on who issues permits around Pittsburgh in our [reconstruction and renovation guide](/blog/general-contracting-reconstruction-renovation/).)
 3. **Framing and rough-in.** Damaged studs, joists, or subfloor get replaced to match existing structural specs. This is also when rough electrical, plumbing, and HVAC connections are coordinated with licensed trades ahead of drywall.
 4. **Drywall, flooring, and finish carpentry.** Walls get hung, taped, and textured to match the surrounding surfaces; flooring is installed or patched; trim, doors, and cabinetry go back in.
 5. **Final walkthrough and punch list.** We inspect against the original scope of work, correct anything that doesn't match, and get the space ready for occupancy or reinspection.

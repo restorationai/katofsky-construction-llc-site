@@ -45,7 +45,7 @@ In post-damage rebuilds, the stakes are higher. A rebuild that begins before the
 
 Insurance adjusters reviewing post-damage rebuild claims look for line-item documentation that matches the scope of the loss. Vague invoices or lump-sum estimates create delays and disputes. Detailed, trade-specific documentation moves claims forward.
 
-Permitting is another dividing line. Unpermitted work can create problems when a home is sold, when an insurance claim is filed, or when a subsequent contractor has to work around something that was never inspected. Every project Katofsky Construction LLC takes on that requires a permit gets one.
+Permitting is another dividing line. Unpermitted work can create problems when a home is sold, when an insurance claim is filed, or when a subsequent contractor has to work around something that was never inspected. Every project Katofsky Construction LLC takes on that requires a permit gets one. Our guide on [what Pittsburgh homeowners need to know before a rebuild](/blog/general-contracting-reconstruction-renovation/) covers permits, Pennsylvania contract rules and how insurance pays for each stage.
 
 ## What does Renovations, Remodels and General Contracting cost?
 

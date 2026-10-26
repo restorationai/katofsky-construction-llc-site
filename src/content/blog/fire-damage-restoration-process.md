@@ -76,7 +76,7 @@ Professional fire and smoke damage restoration generally follows this sequence, 
 
 **Phase 5: Odor treatment.** Once surfaces are clean, odor-neutralizing treatments are applied. The specific method depends on the materials present and the severity of smoke penetration.
 
-**Phase 6: Reconstruction.** Damaged structural elements, drywall, flooring, and finishes are restored. This phase brings the home back to its pre-loss condition.
+**Phase 6: Reconstruction.** Damaged structural elements, drywall, flooring, and finishes are restored. This phase brings the home back to its pre-loss condition. Our [guide to reconstruction and renovation after a loss](/blog/general-contracting-reconstruction-renovation/) walks through that rebuild phase in detail.
 
 The timeline from emergency call to completed reconstruction varies significantly based on the size of the loss, material lead times, and permit requirements. A contained kitchen fire might resolve in a few weeks. A whole-floor loss can take several months.
 
