@@ -34,6 +34,15 @@
       1200
     ]
   },
+  "/images/services/contents-restoration-storage.webp": {
+    "width": 1500,
+    "height": 1000,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
   "/images/services/emergency-board-up-tarping.webp": {
     "width": 1500,
     "height": 1000,
