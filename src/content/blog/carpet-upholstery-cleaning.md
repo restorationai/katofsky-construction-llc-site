@@ -56,7 +56,7 @@ Ask whether the technicians have IICRC-based training, since that's the industry
 
 Most jobs can be scheduled within a few days of your call, not weeks out, which matters most for offices and rentals working against a turnover date.
 
-Katofsky Construction LLC schedules carpet and upholstery cleaning for homes and businesses across the Pittsburgh area using IICRC-based methods and fabric-appropriate equipment. [Call Katofsky Construction LLC at (412) 304-9284](tel:+14123049284) to get a cleaning appointment on the calendar.
+Katofsky Construction LLC schedules carpet cleaning and [upholstery cleaning in Pittsburgh](/services/upholstery-cleaning/) for homes and businesses across the area using IICRC-based methods and fabric-appropriate equipment. [Call Katofsky Construction LLC at (412) 304-9284](tel:+14123049284) to get a cleaning appointment on the calendar.
 
 ---
 
