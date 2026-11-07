@@ -1,0 +1,74 @@
+{
+ "/service-areas/allison-park-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/allison-park-pa/air-duct-cleaning/",
+  "now": "/service-areas/allison-park-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/castle-shannon-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/castle-shannon-pa/air-duct-cleaning/",
+  "now": "/service-areas/castle-shannon-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/churchill-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/churchill-pa/air-duct-cleaning/",
+  "now": "/service-areas/churchill-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/duquesne-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/duquesne-pa/air-duct-cleaning/",
+  "now": "/service-areas/duquesne-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fox-chapel-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/fox-chapel-pa/air-duct-cleaning/",
+  "now": "/service-areas/fox-chapel-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/glenshaw-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/glenshaw-pa/air-duct-cleaning/",
+  "now": "/service-areas/glenshaw-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/jefferson-hills-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/jefferson-hills-pa/air-duct-cleaning/",
+  "now": "/service-areas/jefferson-hills-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/munhall-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/munhall-pa/air-duct-cleaning/",
+  "now": "/service-areas/munhall-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pleasant-hills-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/pleasant-hills-pa/air-duct-cleaning/",
+  "now": "/service-areas/pleasant-hills-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sewickley-hills-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/sewickley-hills-pa/air-duct-cleaning/",
+  "now": "/service-areas/sewickley-hills-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/whitehall-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/whitehall-pa/air-duct-cleaning/",
+  "now": "/service-areas/whitehall-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wilkinsburg-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/wilkinsburg-pa/air-duct-cleaning/",
+  "now": "/service-areas/wilkinsburg-pa/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
