@@ -85,11 +85,11 @@ Restoration Management Services has a 2.6-star rating across 19 reviews. A ratin
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Katofsky Construction LLC | N/A | N/A | Yes | Yes (IICRC Certified Firm) |
-| Content Recovery Specialists of Pittsburgh, PA | 4.7 | 26 | N/A | N/A |
-| G.S. Jones Restoration Consulting | 4.4 | 56 | N/A | N/A |
-| CDC Hauling LLC | 5.0 | 771 | N/A | N/A |
-| Restoration Management Services | 2.6 | 19 | N/A | N/A |
+| Katofsky Construction LLC | Not listed | Not listed | Yes | Yes (IICRC Certified Firm) |
+| Content Recovery Specialists of Pittsburgh, PA | 4.7 | 26 | Not listed | Not listed |
+| G.S. Jones Restoration Consulting | 4.4 | 56 | Not listed | Not listed |
+| CDC Hauling LLC | 5.0 | 771 | Not listed | Not listed |
+| Restoration Management Services | 2.6 | 19 | Not listed | Not listed |
 
 ---
 
