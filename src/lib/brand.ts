@@ -44,6 +44,11 @@ export const brand = {
   foundedYear: "",
   primaryCity: "Pittsburgh",
   primaryState: "PA",
+  // SERVICE REGION (Santino 2026-11-19): multi-metro clients name the region
+  // on every region-wide surface (see src/lib/region.ts); city pages and the
+  // address/NAP keep the city. Empty = one-metro client, city wording.
+  serviceRegion: "Greater Pittsburgh",
+  serviceRegionDetail: "Allegheny and Westmoreland County suburbs incl. Monroeville, McKeesport, Bethel Park, Murrysville",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage
   // copy). addressCity/addressState = where the business PHYSICALLY is.
   // They are usually the same and often diverge (DISS: Farrell PA office,
