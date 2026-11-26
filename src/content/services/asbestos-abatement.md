@@ -53,12 +53,12 @@ Typical costs vary significantly based on the type and quantity of material, acc
 
 | Scenario | Typical industry range |
 |---|---|
-| Single room popcorn ceiling removal (up to 200 sq ft) | $1,500 – $3,500 |
-| Whole-house popcorn ceiling removal | $3,500 – $10,000 |
-| Vinyl floor tile removal (per room) | $1,000 – $3,000 |
-| Pipe and duct insulation removal | $2,000 – $6,000 |
-| Asbestos inspection and bulk sampling only | $400 – $900 |
-| Full abatement with third-party clearance testing | $5,000 – $20,000+ |
+| Single room popcorn ceiling removal (up to 200 sq ft) | $1,500 to $3,500 |
+| Whole-house popcorn ceiling removal | $3,500 to $10,000 |
+| Vinyl floor tile removal (per room) | $1,000 to $3,000 |
+| Pipe and duct insulation removal | $2,000 to $6,000 |
+| Asbestos inspection and bulk sampling only | $400 to $900 |
+| Full abatement with third-party clearance testing | $5,000 to $20,000+ |
 
 These are typical industry figures based on national and regional data, not Katofsky Construction LLC quotes. Every loss is different, and Katofsky Construction LLC provides a written scope of work before any project begins. Homeowners insurance coverage for asbestos abatement varies widely: policies that cover sudden and accidental losses (such as a pipe burst that disturbs insulation) are more likely to include abatement costs than policies that treat asbestos as a pre-existing condition or maintenance issue. Reviewing your policy's pollution and environmental exclusions before filing is worth doing.
 
