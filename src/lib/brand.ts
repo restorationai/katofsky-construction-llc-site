@@ -79,6 +79,8 @@ export const brand = {
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://homeguide.com/pa/pittsburgh/water-damage-restoration/katofsky-construction-llc-L9_GZgjRD"] as string[],
+  credentials: [{"name": "Contractor License", "kind": "license", "number": "090877", "state": "PA", "url": "https://hicsearch.attorneygeneral.gov/", "holder": "company"}, {"name": "IICRC Certified Firm", "kind": "certification", "authority": "IICRC", "holder": "company"}, {"name": "IICRC WRT (Water)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "WRT"}, {"name": "IICRC AMRT (Mold)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "AMRT"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentialsLine: [{"text": "Licensed in PA (#090877)"}, {"text": "IICRC-certified technicians (WRT, AMRT)"}, {"text": "IICRC Certified Firm"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "",
